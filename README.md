@@ -1,1 +1,2 @@
 # Amanda_metzel.md
+I have learned lots and lots of stuff already in computer science. I learned that everything is composed of numbers like the movie the matrix. I also have learned some of the basics of coding. I first learned how to code hello world. Then I learned how to make loops of sounds and all sorts of awesome coding stuff. Then in my second class we started learning how to code using python. It is very confusing for me and I could not figure out the mario assignment but I did try my hardest.
